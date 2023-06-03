@@ -3,7 +3,7 @@
 	padding:0;
 	box-type:border-box;
 }
-.container{
+.holder{
 	display:flex;
 	justify-content:space-between;
 }
